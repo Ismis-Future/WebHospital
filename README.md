@@ -40,7 +40,7 @@ Tecnologias utilizadas
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
-| HTML | Python |  |
+| HTML | Python | PostgreSQL |
 | CSS | Django |  |
 | Javascript |  |  |
 
